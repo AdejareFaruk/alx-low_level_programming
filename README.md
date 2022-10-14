@@ -1,1 +1,1 @@
-This repository contains programs written for the low-level programming and algorithm track at ALX-Africa SE. In these projects, which occurred throughout the duration of the Year 1 curriculum, I learned about data structures, algorithms, and other low-level programming concepts while working in the C language.
+File 0-positive_or_negative.c is a C program that will assign a random number to the variable n each time it is executed, using an if statement.
