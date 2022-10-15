@@ -8,14 +8,14 @@
 *Return: Always 0 (Success)
 */
 
-int main(void)  
-{  
-int i = 122;  
+int main(void)
+{
+int i = 122;
 while (i > 96)
-{      
+{
 putchar(i);
-i--;      
-}  
+i--;
+}
 putchar(10);
-return (0);  
+return (0);
 }
