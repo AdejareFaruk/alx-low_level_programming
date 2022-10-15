@@ -8,8 +8,8 @@
 *Return: lways 0 (Success)
 */
 
-int main(void)  
-{  
+int main(void)
+{
 int i = 0;
 while (i < 48)
 {
@@ -19,6 +19,6 @@ else if (i > 41)
 putchar(i - 10 + 'A');
 i++;
 }
-putchar(10);  
-return (0); 
+putchar(10);
+return (0);
 }
