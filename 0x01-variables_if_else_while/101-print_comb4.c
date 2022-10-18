@@ -1,4 +1,4 @@
-#tdio.h>
+#include <stdio.h>
 
 /**
 *main - print triple combos
