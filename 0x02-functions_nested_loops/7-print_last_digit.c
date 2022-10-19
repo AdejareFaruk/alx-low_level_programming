@@ -6,7 +6,7 @@
 *Return: return value of last digit
 */
 
-int print_last_digit(int n)  
+int print_last_digit(int n)
 {
 int r;
 if (n < 0)
