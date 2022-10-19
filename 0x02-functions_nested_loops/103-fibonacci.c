@@ -22,3 +22,4 @@ i = k;
 printf("%d\n", total);
 return (0);
 }
+}
